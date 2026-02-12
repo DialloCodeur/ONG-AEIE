@@ -2,7 +2,7 @@ function Home() {
     return (
         <>
             <div>
-                <img src="/open-pit-mine.jpg" className="w-full" />
+                <img src="/open-pit-mine.jpg" />
             </div>
         </>
     )

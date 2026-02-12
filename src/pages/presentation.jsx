@@ -1,7 +1,9 @@
 function Presentation() {
     return (
         <>
-            <h2>This is the Presentation page</h2>
+            <div>
+                <img src="/presentation_img.jpg" />
+            </div>
         </>
     )
 }

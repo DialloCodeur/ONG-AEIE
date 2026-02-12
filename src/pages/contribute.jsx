@@ -1,7 +1,9 @@
 function Contribute() {
     return (
         <>
-            <h2>This is the Contribute page</h2>
+            <div>
+                <img src="/contribute_img.jpg" />
+            </div>
         </>
     )
 }

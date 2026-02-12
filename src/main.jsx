@@ -22,19 +22,19 @@ let router = createBrowserRouter([
         element: <Home />
       },
       {
-        path: "/presentation",
+        path: "presentation",
         element: <Presentation />
       },
       {
-        path: "/areas",
+        path: "areas",
         element: <Areas_of_intervention />
       },
       {
-        path: "/news",
+        path: "news",
         element: <News />
       },
       {
-        path: "/contribute",
+        path: "contribute",
         element: <Contribute />
       },
     ]
